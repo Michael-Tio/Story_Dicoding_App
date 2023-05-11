@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">MyStoryApplication</string>
+    <string name="create_new_account">Create new account</string>
+    <string name="name">Name</string>
+    <string name="e_mail">E-mail</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="description">Description</string>
+
+    <string name="authority">com.michael.mystoryapplication</string>
+    <string name="no_permission">Tidak mendapatkan permission.</string>
+    <string name="choose_pic">Choose a Picture</string>
+    <string name="upload_fail">Upload gagal</string>
+    <string name="description_warning">Please input some description</string>
+    <string name="photo_warning">Please input a photo</string>
+    <string name="error_field_empty">Please fill all fields!</string>
+    <string name="error_minimum_password">Minimum Password is 8 character</string>
+    <string name="error_incorrect_email_password">Email or password is incorrect</string>
+    <string name="no_data">No data</string>
+    <string name="add_story">Add New Story</string>
+    <string name="story_details">Story Details</string>
+    <string name="story_list">Story List</string>
+    <string name="password">Password</string>
+    <string name="error_min_char">Minimum characters is 8</string>
+
+
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="maps">Maps</string>
+    <string name="logout">Logout</string>
+
+    <string name="timeout">Timeout</string>
+    <string name="retry">Coba lagi</string>
+
+    <!--Shared Preference Usage-->
+    <string name="pref_name">usertoken</string>
+    <string name="user_token">user_token</string>
+    <string name="story_image">Story Image</string>
+    <string name="story_preview">Story preview</string>
+
+</resources>
